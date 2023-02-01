@@ -1,0 +1,27 @@
+.P1{
+
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.P2
+{
+    font-size: 20px;
+    background-color: aqua;
+}
+
+.P3{
+    border: solid red 20px;
+}
+
+
+#Destacado
+{
+    color: blueviolet;
+}
+
+#Titulo
+{
+    font-weight: bold;
+}
